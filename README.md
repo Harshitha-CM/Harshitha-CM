@@ -19,11 +19,15 @@ And when I’m not wrangling schemas or writing PySpark, I’m probably experime
 
 ---
 
-## 🚀 What I’ve Built
+## 💼 Experience Snapshot
 
-### 🎵 AI Song Storyteller  
-**GPT-4, Hugging Face, ElevenLabs, D3.js**  
-Turns lyrics into emotional story summaries, generates illustrations using Stable Diffusion, and narrates them using text-to-speech — in English, Telugu, Tamil, and Spanish.
+- **ADP** → Designed and scaled ETL + CDC pipelines for 150M+ payroll/tax records/month using Databricks, Synapse, and Azure ADF  
+- **Edvensoft** → Built real-time Kinesis pipelines, fraud alert systems, and secure S3-based data lakes with Redshift and EMR  
+- Worked closely with finance, compliance, and product teams to deliver **secure, audit-ready, self-serve data platforms**
+
+---
+
+## 🚀 What I’ve Built
 
 ### 📄 Resume Analyzer & Job Matcher  
 **LangChain, FAISS, OpenAI, Streamlit**  
@@ -40,14 +44,6 @@ Analyzed 10+ semesters of academic data to improve room allocation, reduce sched
 ### 📚 Sentiment Trends in Historical Literature  
 **Hive, NLP, Hadoop, Step Functions**  
 Explored decade-wise emotional tone across 15+ literary datasets using MapReduce and NLP scoring — like literary analysis, but distributed.
-
----
-
-## 💼 Experience Snapshot
-
-- **ADP** → Designed and scaled ETL + CDC pipelines for 150M+ payroll/tax records/month using Databricks, Synapse, and Azure ADF  
-- **Edvensoft** → Built real-time Kinesis pipelines, fraud alert systems, and secure S3-based data lakes with Redshift and EMR  
-- Worked closely with finance, compliance, and product teams to deliver **secure, audit-ready, self-serve data platforms**
 
 ---
 
