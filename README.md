@@ -1,36 +1,57 @@
-# 👋 Hey, I’m Harshitha Chowdary
+# 👋 Hi, I’m Harshitha
 
-I turn raw data into clean insights, flaky pipelines into reliable systems, and weird ideas into working AI apps.
-
-🔧 **By profession**: I'm a Data Engineer with 4+ years of experience building secure, scalable, and production-grade data platforms across AWS and Azure. My toolbox includes Glue, Redshift, Lambda, Spark, Databricks, and a lot of SQL I’ve probably rewritten five times to shave off 10 seconds.
-
-🤖 **By passion**: I love building with LLMs and generative AI—whether it's summarizing songs into stories, creating resume-analyzing bots, or giving data pipelines a personality (yes, with logs that talk back). I like projects that mix structure with chaos. Data meets art.
+I’m a curious builder who loves turning messy data into something useful — and turning useful data into something beautiful (or weird, if it works).  
+Passionate about **data**, obsessed with **AI**, and always chasing that “oh wow, it actually works” moment.
 
 ---
 
-## 🛠️ What I Build:
-- Pipelines that survive schema changes and timezone bugs  
-- Real-time dashboards that actually refresh when it matters  
-- GPT-powered tools that tell stories, classify emotions, or match jobs  
-- Redshift queries that don’t make your BI team cry  
-- Data systems that pass audits without a 2-week scramble
+## 🧠 Things I’m into:
+- Writing pipelines that don’t crash at 2 AM  
+- Getting GPT-4 to do something mildly absurd (or occasionally brilliant)  
+- Making dashboards that feel more like stories than spreadsheets  
+- Fixing broken data so no one else has to lose their mind  
+- Teaching machines to make decisions... and also to vibe a little 🎶
 
 ---
 
-## 🧠 What I Work With:
-**Languages**: Python, SQL, PySpark, Bash  
-**Cloud**: AWS (Glue, Redshift, S3, Lambda), Azure (ADF, Databricks, Synapse)  
-**AI/ML**: GPT-4, Hugging Face, LangChain, scikit-learn  
-**Tools**: Airflow, Terraform, Snowflake, Tableau, QuickSight, GitHub Actions
+## 💼 A little about what I do:
+🛠️ **Data Engineer** with 4+ years of experience working across large-scale production systems at companies like **ADP** and **Edvensoft Solutions**.  
+I work with batch + streaming data, secure data lakes, low-latency fraud detection pipelines, and AI-powered apps that plug right into the modern data stack.
+
+I've owned ETL pipelines moving **150M+ records/month**, designed **audit-ready Redshift/Snowflake models**, built **AI storytelling apps**, and deployed infrastructure using **Terraform, DevOps, and Airflow**.
 
 ---
 
-## 💡 Currently Exploring:
-- Data mesh patterns & domain-driven design  
-- LLM-powered chatbots that summarize boring PDFs  
-- Multilingual storytelling with AI  
-- Cost-aware data engineering (because cloud bills are real)
+## 🧰 Tech Stack I Use:
+
+**Languages**: Python, SQL, Bash, PySpark  
+**Cloud Platforms**: AWS (Glue, Redshift, Lambda, Kinesis, S3), Azure (ADF, Databricks, Synapse)  
+**Pipeline Tools**: Airflow, dbt, Terraform, Jenkins, CloudFormation  
+**AI/ML**: GPT-4, Hugging Face, LangChain, Scikit-learn, ElevenLabs  
+**Data & BI**: Snowflake, Redshift, Power BI, Tableau, QuickSight, Delta Lake  
+**Other Fun Stuff**: D3.js, Stable Diffusion, MongoDB, REST APIs, Feature Engineering
 
 ---
 
-📫 Let’s connect. Whether it's pipelines, prompts, or weird analytics ideas — I’m always down to build something cool, useful, and maybe a little unexpected.
+## 🚀 Projects I’ve Had Fun Building:
+
+### 🎵 **AI-Powered Song Storyteller**
+*LLMs, GPT-4, ElevenLabs, Hugging Face, D3.js*  
+Summarizes multilingual songs into short narratives and narrates them using TTS. Visualizes emotional arcs and themes with dynamic charts.
+
+### 📄 **AI Resume Analyzer & Job Matcher**  
+*Python, LangChain, OpenAI, FAISS, Streamlit*  
+Built a tool that gives honest feedback on resume-job fit using LLMs, semantic search, and real-time prompt workflows.
+
+### 📊 **Course Scheduling Dashboard**  
+*SQL, Tableau, Excel, Snowflake*  
+Created a visual tool that helped reduce classroom scheduling conflicts by 100% and improve room utilization by 30% using data from 10+ semesters.
+
+### 🔍 **Real-Time Fraud Detection Pipeline**  
+*AWS Glue, Kinesis, PySpark, Redshift, CloudWatch*  
+Designed a production pipeline to ingest and process 10M+ transactions daily, enabling near real-time fraud flagging with 70% latency reduction.
+
+---
+
+📫 Always open to conversations about smart data systems, weird AI projects, or just trading favorite dashboards.  
+Let’s connect. Let's build.
