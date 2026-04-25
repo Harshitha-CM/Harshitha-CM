@@ -21,7 +21,7 @@ And when I’m not wrangling schemas or writing PySpark, I’m probably experime
 
 ## 💼 Experience Snapshot
 
-- **SG Analytics / Versant Media** → Worked on production-scale digital analytics and media reporting pipelines using Airflow, Databricks, Spark, Snowflake, and AWS S3, supporting Adobe Analytics clickstream ingestion, report suite mappings, metric reconciliation, SLA monitoring, and pipeline debugging for reliable business reporting.
+- **SG Analytics** → Worked on production-scale digital analytics and media reporting pipelines using Airflow, Databricks, Spark, Snowflake, and AWS S3, supporting Adobe Analytics clickstream ingestion, report suite mappings, metric reconciliation, SLA monitoring, and pipeline debugging for reliable business reporting.
 - **ADP** → Designed and scaled ETL and CDC pipelines for high-volume payroll and tax datasets using Databricks, Synapse, Azure Data Factory, and SQL, focusing on data reliability, automated processing, performance optimization, and secure reporting for downstream business and compliance teams.
 - **Edvensoft** → Built cloud-based batch and real-time data pipelines using AWS Glue, Kinesis, PySpark, Redshift, EMR, and S3, supporting fraud analytics, data lake development, anomaly detection, alerting, and self-serve analytics for finance and product teams.
 - **AI + Data Engineering Focus** → Interested in applying AI to data engineering through AI agents, intelligent pipeline monitoring, automated documentation, anomaly detection, log summarization, SQL generation, and AI-assisted analytics workflows.
